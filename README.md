@@ -2,6 +2,7 @@
 <!-- Tudo o que está dentro desses setinhas é comentário e fica oculto. Apague se preferir, mantenha se quiser deixar de referência -->
 
 [Inserir aqui imagem de capa o projeto] 
+<hr>
 
 # [inserir emoji relacionado ao tema do projeto] Título
 
