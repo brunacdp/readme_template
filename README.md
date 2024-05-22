@@ -5,10 +5,9 @@
 > <br><br>**Como utilizar esse repositório:**
 > 1. Favorite para consultar sempre que necessário, clicando na :star: (star) no menu superior direito
 > 2. Toque no arquivo _README.md_ para abri-lo
-> 3. Toque no botão <img width="65" alt="image" src="https://github.com/brunacdp/readme_template/assets/126818470/d840b7d1-10b9-4ec4-ab33-7cb51ed501c0"> (CODE) para visualizar o código
-> 4. No canto superior direito, toque no ícone <img width="28" alt="image" src="https://github.com/brunacdp/readme_template/assets/126818470/ff95727d-8f04-483c-8d96-16b24d3b6405"> (Copy raw file) para copiar o código
-> 5. Cole no seu README e faça as alterações que desejar
-> 6. Agora vamos para o template:
+> 3. No canto superior direito, toque no ícone <img width="28" alt="image" src="https://github.com/brunacdp/readme_template/assets/126818470/ff95727d-8f04-483c-8d96-16b24d3b6405"> (Copy raw file) para copiar o código
+> 4. Cole no seu README e faça as alterações que desejar
+> 5. Agora vamos para o template:
 <br>
 <!-- APAGAR O BLOCO DE CONTEÚDO ACIMA OU COLOCÁ-LO DENTRO DE UM COMENTÁRIO PARA OCULTÁ-LO -->
 
